@@ -5,6 +5,7 @@ Here I describe the current (not desired) state as the starting point for discus
 ## Apostolic Fathers
 
 * Separate works are in separate files.
+* Filenames are prefixed with a three-digit number and so are sortable.
 * Each addressable textpart leaf is on its own line.
 * The first token before whitespace is a reference for that textpart unique within the file.
 * There is no indication in the reference of which of the 15 texts we are in (you need to know the filename for that)
@@ -18,9 +19,13 @@ Here I describe the current (not desired) state as the starting point for discus
 ## MorphGNT
 
 * Separate books are in separate files.
+* Filenames are prefixed with a two-digit number (based on the SBLGNT source) and so are sortable.
 * Each token (with punctuation included on the word token) is on its own line with addition token properties in different whitespace-delimited columns.
 * The first column is a six-digit BBCCVV (e.g. 040316; so the reference does include the book).
 * The CCVV part of the reference follows the standard chapter-verse scheme in the SBLGNT text.
+* References are sortable although the files are not because there's no token-specific part of the reference
+
+Of course, there *could* be a token-specific part of the reference.
 
 ## Vocabulary-Tools GNT
 
@@ -45,3 +50,14 @@ Other than dealing with `52`, it would be trivial to convert this to the same fo
 * directory layout follows Capitains Guidlines
 * references are defined in a refsDecls section then inferred from the XML hierarchy based on regexes and XPath
 
+## Sleeptillseven LXX
+
+* like AF but including book name and with different delimiter character: `Genesis::1:1`
+* Filenames are not sortable.
+* References are not sortable.
+
+## Nathans LXX
+
+* like MorphGNT, token-per-line with whitespace-delimited columns (although BBCCCVVV for references)
+* Filenames are prefixed with a two-digit number so are sortable.
+* 
