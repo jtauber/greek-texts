@@ -60,4 +60,3 @@ Other than dealing with `52`, it would be trivial to convert this to the same fo
 
 * like MorphGNT, token-per-line with whitespace-delimited columns (although BBCCCVVV for references)
 * Filenames are prefixed with a two-digit number so are sortable.
-* 
