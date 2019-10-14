@@ -35,8 +35,8 @@ organising collaboration on Greek texts for learners
 
 Some of my relevant projects
 
-* https://github.com/jtauber/core-gnt-vocab
-* https://github.com/morphgnt/morphological-lexicon
+* <https://github.com/jtauber/core-gnt-vocab>
+* <https://github.com/morphgnt/morphological-lexicon>
 
 plus other stuff I still need to open up consolidating vocabulary lists like DCC and the "Major 80" and also lists of principal parts.
 
@@ -44,11 +44,11 @@ plus other stuff I still need to open up consolidating vocabulary lists like DCC
 
 Some of my relevant projects (a few more closed-source to open up)
 
-* https://github.com/jtauber/greek-normalisation
-* https://github.com/jtauber/greek-inflexion
-* https://github.com/jtauber/vocabulary-tools
-* https://github.com/jtauber/greek-lemma-mappings
-* https://github.com/jtauber/greek-reader
+* <https://github.com/jtauber/greek-normalisation>
+* <https://github.com/jtauber/greek-inflexion>
+* <https://github.com/jtauber/vocabulary-tools>
+* <https://github.com/jtauber/greek-lemma-mappings>
+* <https://github.com/jtauber/greek-reader>
 
 Although note that the point of this project is producing texts (and annotations). The tools are mostly a side-effect.
 
