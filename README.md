@@ -6,6 +6,7 @@ organising collaboration on Greek texts for learners
 
 * James Tauber — <https://jktauber.com>
 * Seumas Macdonald — <https://thepatrologist.com>
+* David Maddock — <http://davemaddock.com>
 * more I'll include once I have their permission to name :-)
 
 ## What We're Producing
@@ -22,6 +23,7 @@ organising collaboration on Greek texts for learners
 * LXX (<https://github.com/sleeptillseven/LXX-Swete> and <https://github.com/nathans/lxx-swete>)
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
 * Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
+* ???
 
 #### 18th–20th Century Greek Readers
 
