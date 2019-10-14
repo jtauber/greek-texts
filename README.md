@@ -16,20 +16,41 @@ organising collaboration on Greek texts for learners
 
 ## Texts
 
-### Ancient Texts
+#### Ancient Texts
 
 * GNT (in discussion about which version but in some part building on <https://github.com/morphgnt>)
 * LXX (<https://github.com/sleeptillseven/LXX-Swete> and <https://github.com/nathans/lxx-swete>)
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
 * Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
 
-### 18th–20th Century Greek Readers
+#### 18th–20th Century Greek Readers
 
 * <https://github.com/seumasjeltzz/EasyGreekReaders>
 
-### Born-Digital Readers
+#### Born-Digital Readers
 
 * LGPSI — <https://github.com/seumasjeltzz/LinguaeGraecaePerSeIllustrata>
+
+## Non-Text Data
+
+Some of my relevant projects
+
+* https://github.com/jtauber/core-gnt-vocab
+* https://github.com/morphgnt/morphological-lexicon
+
+plus other stuff I still need to open up consolidating vocabulary lists like DCC and the "Major 80" and also lists of principal parts.
+
+## Tools
+
+Some of my relevant projects (a few more closed-source to open up)
+
+* https://github.com/jtauber/greek-normalisation
+* https://github.com/jtauber/greek-inflexion
+* https://github.com/jtauber/vocabulary-tools
+* https://github.com/jtauber/greek-lemma-mappings
+* https://github.com/jtauber/greek-reader
+
+Although note that the point of this project is producing texts (and annotations). The tools are a side-effect.
 
 ## Joining Us
 
