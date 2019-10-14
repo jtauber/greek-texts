@@ -33,4 +33,4 @@ organising collaboration on Greek texts for learners
 
 ## Joining Us
 
-We have a Slack workspace <greek-texts.slack.com>. If you're interested in joining, send an email to jtauber@jtauber.com introducing yourself and he'll invite you to Slack.
+We have a Slack workspace <https://greek-texts.slack.com/>. If you're interested in joining, send an email to jtauber@jtauber.com introducing yourself and he'll invite you to Slack.
