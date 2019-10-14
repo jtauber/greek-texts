@@ -50,7 +50,7 @@ Some of my relevant projects (a few more closed-source to open up)
 * https://github.com/jtauber/greek-lemma-mappings
 * https://github.com/jtauber/greek-reader
 
-Although note that the point of this project is producing texts (and annotations). The tools are a side-effect.
+Although note that the point of this project is producing texts (and annotations). The tools are mostly a side-effect.
 
 ## Joining Us
 
