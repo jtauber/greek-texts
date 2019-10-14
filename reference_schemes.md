@@ -1,4 +1,4 @@
-# Referencing Schemes
+# Reference Schemes
 
 Here I describe the current (not desired) state as the starting point for discussion about what the general conventions should be.
 
