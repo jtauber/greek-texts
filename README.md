@@ -8,6 +8,7 @@ organising collaboration on Greek texts for learners
 * Seumas Macdonald — <https://thepatrologist.com>
 * David Maddock — <http://davemaddock.com>
 * Fletcher Hardison — <http://www.amindforlanguage.com>
+* Ken M. Penner — <http://pseudepigrapha.org>
 * more I'll include once I have their permission to name :-)
 
 ## What We're Producing
