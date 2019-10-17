@@ -9,6 +9,7 @@ organising collaboration on Greek texts for learners
 * David Maddock — <http://davemaddock.com>
 * Fletcher Hardison — <http://www.amindforlanguage.com>
 * Ken M. Penner — <http://pseudepigrapha.org>
+* Nathan D. Smith — <http://nathan.smithfam.info/>
 * more I'll include once I have their permission to name :-)
 
 ## What We're Producing
