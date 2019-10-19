@@ -49,6 +49,7 @@ plus other stuff I still need to open up consolidating vocabulary lists like DCC
 
 Some of my relevant projects (a few more closed-source to open up)
 
+* <https://github.com/jtauber/text-validator>
 * <https://github.com/jtauber/greek-normalisation>
 * <https://github.com/jtauber/greek-inflexion>
 * <https://github.com/jtauber/vocabulary-tools>
