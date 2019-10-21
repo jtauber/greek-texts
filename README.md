@@ -31,6 +31,7 @@ organising collaboration on Greek texts for learners
 #### 18th–20th Century Greek Readers
 
 * <https://github.com/seumasjeltzz/EasyGreekReaders>
+* <https://github.com/fhardison/rouse-a-greek-boy-at-home>
 
 #### Born-Digital Readers
 
