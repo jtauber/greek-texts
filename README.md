@@ -16,6 +16,7 @@ organising collaboration on Greek texts for learners
 
 * openly-licensed base texts following agreed-upon conventions
 * tooling which produces a static website, EPUB, print-ready version, and (where appropriate) CTS TEI XML for contributing back to OGL / showing in Scaife
+* corpus-based vocabulary lists for language learners (and producers of graded Greek reading material)
 * linguistic annotation necessary to do things like track vocabulary, produce context-specific glosses, etc.
 
 ## Texts
@@ -26,6 +27,7 @@ organising collaboration on Greek texts for learners
 * LXX (<https://github.com/sleeptillseven/LXX-Swete> and <https://github.com/nathans/lxx-swete>)
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
 * Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
+* Plato Texts (starting with Crito) — <https://github.com/jtauber/plato-texts>
 * ???
 
 #### 18th–20th Century Greek Readers
@@ -43,6 +45,7 @@ Some of my relevant projects
 
 * <https://github.com/jtauber/core-gnt-vocab>
 * <https://github.com/morphgnt/morphological-lexicon>
+* <https://github.com/jtauber/greek-vocabulary-list>
 
 plus other stuff I still need to open up consolidating vocabulary lists like DCC and the "Major 80" and also lists of principal parts.
 
