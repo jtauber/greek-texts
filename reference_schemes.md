@@ -44,6 +44,8 @@ This is an alternative format of the MorphGNT data. See <https://github.com/jtau
 
 Other than dealing with `52`, it would be trivial to convert this to the same format as the Apostolic Fathers.
 
+**UPDATE**: the Enchridion has now been converted into the same format as the Apostolic Fathers.
+
 ## Perseus and OGL First1K Greek Files
 
 * TEI XML following EpiDoc conventions
