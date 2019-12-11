@@ -11,6 +11,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * Ken M. Penner — <http://pseudepigrapha.org>
 * Nathan D. Smith — <http://nathan.smithfam.info>
 * Christoph Jasinski — <https://github.com/sleeptillseven>
+* Bryan Forbes — <https://github.com/bryanforbes>
 * more I'll include once I have their permission to name :-)
 
 ## What We're Producing
