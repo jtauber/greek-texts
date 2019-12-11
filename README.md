@@ -12,7 +12,6 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * Nathan D. Smith — <http://nathan.smithfam.info>
 * Christoph Jasinski — <https://github.com/sleeptillseven>
 * Bryan Forbes — <https://github.com/bryanforbes>
-* more I'll include once I have their permission to name :-)
 
 ## What We're Producing
 
@@ -43,7 +42,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 
 ## Non-Text Data
 
-Some of my relevant projects
+Some relevant projects
 
 * <https://github.com/jtauber/core-gnt-vocab>
 * <https://github.com/morphgnt/morphological-lexicon>
@@ -53,7 +52,7 @@ plus other stuff I still need to open up consolidating vocabulary lists like DCC
 
 ## Tools
 
-Some of my relevant projects (a few more closed-source to open up)
+Some relevant projects (a few more closed-source to open up)
 
 * <https://github.com/jtauber/text-validator>
 * <https://github.com/jtauber/greek-normalisation>
@@ -62,7 +61,7 @@ Some of my relevant projects (a few more closed-source to open up)
 * <https://github.com/jtauber/greek-lemma-mappings>
 * <https://github.com/jtauber/greek-reader>
 
-Although note that the point of this project is producing texts (and annotations). The tools are mostly a side-effect.
+Although note that the point of the `greek-texts` project is producing texts (and annotations). The tools are mostly a side-effect.
 
 ## Joining Us
 
