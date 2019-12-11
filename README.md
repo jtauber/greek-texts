@@ -1,6 +1,6 @@
 # greek-texts
 
-organising collaboration on Greek texts for learners
+organising collaboration on Greek texts and vocabulary lists for learners
 
 ## Who We Are
 
@@ -9,7 +9,8 @@ organising collaboration on Greek texts for learners
 * David Maddock — <http://davemaddock.com>
 * Fletcher Hardison — <http://www.amindforlanguage.com>
 * Ken M. Penner — <http://pseudepigrapha.org>
-* Nathan D. Smith — <http://nathan.smithfam.info/>
+* Nathan D. Smith — <http://nathan.smithfam.info>
+* Christoph Jasinski — <https://github.com/sleeptillseven>
 * more I'll include once I have their permission to name :-)
 
 ## What We're Producing
