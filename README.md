@@ -12,6 +12,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * Nathan D. Smith — <http://nathan.smithfam.info>
 * Christoph Jasinski — <https://github.com/sleeptillseven>
 * Bryan Forbes — <https://github.com/bryanforbes>
+* more joining all the time... (see **Joining Us** below)
 
 ## What We're Producing
 
@@ -29,7 +30,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
 * Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
 * Plato Texts (starting with Crito) — <https://github.com/jtauber/plato-texts>
-* ???
+* ... any post-beginner Greek prose you're interested in seeing (especially if you're willing to shepherd it!)
 
 #### 18th–20th Century Greek Readers
 
@@ -42,7 +43,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 
 ## Non-Text Data
 
-Some relevant projects
+Some relevant data projects
 
 * <https://github.com/jtauber/core-gnt-vocab>
 * <https://github.com/morphgnt/morphological-lexicon>
@@ -52,7 +53,7 @@ plus other stuff I still need to open up consolidating vocabulary lists like DCC
 
 ## Tools
 
-Some relevant projects (a few more closed-source to open up)
+Some relevant code projects (plus a few more closed-source still to open up)
 
 * <https://github.com/jtauber/text-validator>
 * <https://github.com/jtauber/greek-normalisation>
@@ -61,7 +62,7 @@ Some relevant projects (a few more closed-source to open up)
 * <https://github.com/jtauber/greek-lemma-mappings>
 * <https://github.com/jtauber/greek-reader>
 
-Although note that the point of the `greek-texts` project is producing texts (and annotations). The tools are mostly a side-effect.
+Although note that the point of the `greek-texts` project is mostly producing texts and data. The tools are mostly a side-effect.
 
 ## Joining Us
 
