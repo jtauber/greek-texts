@@ -12,10 +12,11 @@ While we will probably expand things to include translation alignment, postaggin
 * make sure you are in <https://greek-texts.slack.com/>
 * discuss the text you'd like to shepherd in the `#potential-projects` channel
 * if you can't get anyone else interested, you can still proceed solo but better if you have a few people that can help
-* make sure you are listed under "Who We Are" on https://github.com/jtauber/greek-texts/blob/master/README.md (send a pull-request)
+* make sure you are listed under "Who We Are" on <https://github.com/jtauber/greek-texts/blob/master/README.md> (send a pull-request)
 * start a new channel in Slack and invite anyone who expressed an interest (you can also advertise it in `#general`)
-* start a github repo for it (see things like https://github.com/jtauber/plato-texts and https://github.com/jtauber/aesop for examples)
-* get repo added under "Texts" on https://github.com/jtauber/greek-texts/blob/master/README.md (send a pull-request)
+* start a github repo for it (see things like <https://github.com/jtauber/plato-texts> and <https://github.com/jtauber/aesop for examples>)
+* add a `greek-texts` topic tag to your repo
+* add the repo under "Texts" on https://github.com/jtauber/greek-texts/blob/master/README.md (send a pull-request)
 
 ## Putting Together the Initial Text
 
