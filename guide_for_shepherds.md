@@ -22,6 +22,7 @@ While we will probably expand things to include translation alignment, postaggin
 * check Scaife (https://scaife.perseus.org/library/) to see if the text you want to work on is already in Perseus/OGL
 * if so, find the repo in GitHub and get the relevant TEI XML
 * if not, you'll need to track down an openly-licensed version (either public domain / CC0, cc-by, or cc-by-sa)
+* there may be quite a lot of correction to do (see [Preparing an Open Apostolic Fathers](https://jktauber.com/2018/11/01/preparing-open-apostolic-fathers/) for what we did for the Apostolic Fathers)
 * [James needs to expand this a lot but] get it in our standard "reference text-part" form, one line per referenceable text-part
 * set up a `text-validator.toml` and validate the text with `text-validator` (preferably set up a GitHub Action to do this on all commits and PRs)
 
