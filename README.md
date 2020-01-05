@@ -12,6 +12,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * Nathan D. Smith — <http://nathan.smithfam.info>
 * Christoph Jasinski — <https://github.com/sleeptillseven>
 * Bryan Forbes — <https://github.com/bryanforbes>
+* Eric Sowell — <http://ericsowell.com>
 * more joining all the time... (see **Joining Us** below)
 
 ## What We're Producing
@@ -30,6 +31,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
 * Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
 * Plato Texts (starting with Crito) — <https://github.com/jtauber/plato-texts>
+* Justin Martyr's works — <https://github.com/Mallioch/justin-martyr-texts>
 * ... any post-beginner Greek prose you're interested in seeing (especially [if you're willing to shepherd it](https://jtauber.github.io/greek-texts/guide_for_shepherds)!)
 
 #### 18th–20th Century Greek Readers
