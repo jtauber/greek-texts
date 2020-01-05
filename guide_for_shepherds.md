@@ -1,6 +1,6 @@
 # Guide for Shepherds
 
-We use the term "shepherd" for the person ultimately keeping an eye on making forward progress on a particular text. They don't have to do all the work or even the majority of the work, they just need to be willing to help move things alone.
+We use the term "shepherd" for the person ultimately keeping an eye on making forward progress on a particular text. They don't have to do all the work or even the majority of the work, they just need to be willing to help move things along.
 
 While we will probably expand things to include translation alignment, postagging, treebanking, sembanking, and more at some point, the initial milestones for a text are:
 
