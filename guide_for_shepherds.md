@@ -16,7 +16,8 @@ While we will probably expand things to include translation alignment, postaggin
 * start a new channel in Slack and invite anyone who expressed an interest (you can also advertise it in `#general`)
 * start a github repo for it (see things like <https://github.com/jtauber/plato-texts> and <https://github.com/jtauber/aesop>  for examples)
 * add a `greek-texts` topic tag to your repo
-* add the repo under "Texts" on <https://github.com/jtauber/greek-texts/blob/master/README.md? (send a pull-request)
+* add the repo under "Texts" on <https://github.com/jtauber/greek-texts/blob/master/README.md> (send a pull-request)
+* `/github subscribe` to the repo in the `#github` channel on Slack
 
 ## Putting Together the Initial Text
 
