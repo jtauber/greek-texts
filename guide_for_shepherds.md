@@ -16,11 +16,11 @@ While we will probably expand things to include translation alignment, postaggin
 * start a new channel in Slack and invite anyone who expressed an interest (you can also advertise it in `#general`)
 * start a github repo for it (see things like <https://github.com/jtauber/plato-texts> and <https://github.com/jtauber/aesop>  for examples)
 * add a `greek-texts` topic tag to your repo
-* add the repo under "Texts" on https://github.com/jtauber/greek-texts/blob/master/README.md (send a pull-request)
+* add the repo under "Texts" on <https://github.com/jtauber/greek-texts/blob/master/README.md? (send a pull-request)
 
 ## Putting Together the Initial Text
 
-* check Scaife (https://scaife.perseus.org/library/) to see if the text you want to work on is already in Perseus/OGL
+* check Scaife (<https://scaife.perseus.org/library/>) to see if the text you want to work on is already in Perseus/OGL
 * if so, find the repo in GitHub and get the relevant TEI XML
 * if not, you'll need to track down an openly-licensed version (either public domain / CC0, cc-by, or cc-by-sa)
 * there may be quite a lot of correction to do (see [Preparing an Open Apostolic Fathers](https://jktauber.com/2018/11/01/preparing-open-apostolic-fathers/) for what we did for the Apostolic Fathers)
