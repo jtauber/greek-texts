@@ -26,7 +26,7 @@ organising collaboration on Greek texts and vocabulary lists for learners
 
 #### Ancient Texts
 
-* GNT (in discussion about which version but in some part building on <https://github.com/morphgnt>)
+* GNT (in discussion about which version but, for now see <https://github.com/morphgnt> and <https://github.com/jtauber/gnt-texts>)
 * LXX (<https://github.com/sleeptillseven/LXX-Swete> and <https://github.com/nathans/lxx-swete>)
 * Apostolic Fathers — <https://jtauber.github.io/apostolic-fathers/>
 * Epictetus's Enchiridion — <https://github.com/jtauber/enchiridion>
