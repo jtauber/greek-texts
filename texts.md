@@ -1,5 +1,5 @@
-# Texts
-
+title: Texts
+---
 ## Ancient Texts
 
 * GNT (in discussion about which version but, for now see <https://github.com/morphgnt> and <https://github.com/jtauber/gnt-texts>)
