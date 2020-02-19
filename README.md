@@ -1,4 +1,6 @@
-# greek-texts
+---
+title: Greek Texts
+---
 
 organising collaboration on Greek texts and vocabulary lists for learners
 
