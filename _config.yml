@@ -1,4 +1,5 @@
 theme: minima
+title: Greek Texts
 header_pages:
   - texts.md
   - other_data.md
