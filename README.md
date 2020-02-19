@@ -24,20 +24,6 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * corpus-based vocabulary lists for language learners (and producers of graded Greek reading material)
 * linguistic annotation necessary to do things like track vocabulary, produce context-specific glosses, etc.
 
-## Texts
-
-see [Texts](/texts).
-
-## Non-Text Data
-
-Some relevant data projects
-
-* <https://github.com/jtauber/core-gnt-vocab>
-* <https://github.com/morphgnt/morphological-lexicon>
-* <https://github.com/jtauber/greek-vocabulary-list>
-
-plus other stuff I still need to open up consolidating vocabulary lists like DCC and the "Major 80" and also lists of principal parts.
-
 ## Tools
 
 Some relevant code projects (plus a few more closed-source still to open up)
