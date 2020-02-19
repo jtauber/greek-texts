@@ -1,1 +1,5 @@
 theme: minima
+header_pages:
+  - texts.md
+  - other_data.md
+  - tools.md
