@@ -1,5 +1,5 @@
 ---
-title: tools
+title: Tools
 ---
 
 Some relevant code projects (plus a few more closed-source still to open up)
