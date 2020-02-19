@@ -15,7 +15,6 @@ organising collaboration on Greek texts and vocabulary lists for learners
 * Christoph Jasinski — <https://github.com/sleeptillseven>
 * Bryan Forbes — <https://github.com/bryanforbes>
 * Eric Sowell — <http://ericsowell.com>
-* more joining all the time... (see **Joining Us** below)
 
 ## What We're Producing
 
