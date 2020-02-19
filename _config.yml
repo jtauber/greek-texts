@@ -1,8 +1,6 @@
 theme: minima
 title: Greek Texts
-author:
-  name: James Tauber
-  email: jtauber@jtauber.com
+author: The Greek Texts Team
 header_pages:
   - texts.md
   - other_data.md
