@@ -1,7 +1,0 @@
-theme: minima
-title: Greek Texts
-author: The Greek Texts Team
-header_pages:
-  - texts.md
-  - other_data.md
-  - tools.md
